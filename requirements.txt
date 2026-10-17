@@ -1,0 +1,11 @@
+# CISC7204 Suggested Exercise 08 — geoplotlib environment
+
+geoplotlib==0.3.2
+pyglet>=1.5,<2
+pandas==2.2.3
+numpy==1.26.4
+matplotlib
+scipy
+pyshp
+ipykernel
+jupyter
